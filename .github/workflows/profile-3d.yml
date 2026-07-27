@@ -1,0 +1,48 @@
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.TOKEN }}
+      - name: Write theme settings
+        run: |
+          mkdir -p profile-3d-contrib
+          cat > profile-3d-contrib/settings.json << 'EOL'
+          {
+            "type": "rainbow",
+            "backgroundColor": "#0F172A",
+            "foregroundColor": "#C9D1D9",
+            "strongColor": "#ffffff",
+            "weakColor": "#334155",
+            "radarColor": "#06B6D4",
+            "growingAnimation": true,
+            "contribColors": [
+              "#0F172A",
+              "#1E3A8A",
+              "#2563EB",
+              "#0891B2",
+              "#06B6D4"
+            ]
+          }
+          EOL
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          USERNAME: ChinmayRout9040895625
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Update 3D contribution graph" || exit 0
+          git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/ChinmayRout9040895625/ChinmayRout9040895625.git
+          git push origin HEAD:main --force
