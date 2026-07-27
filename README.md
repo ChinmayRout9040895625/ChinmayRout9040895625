@@ -76,3 +76,39 @@ I care about turning research-grade AI ideas into systems that run in production
 <img src="https://raw.githubusercontent.com/ChinmayRout9040895625/ChinmayRout9040895625/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 </div>
+
+<h2 align="center">Featured Projects</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:06B6D4&height=3&section=header" width="100%"/>
+
+**MemCore** — Production-grade long-term memory infrastructure for AI agents
+
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Qdrant-0F172A?style=flat-square&logo=qdrant&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Neo4j-0F172A?style=flat-square&logo=neo4j&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Redis-0F172A?style=flat-square&logo=redis&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&logo=kubernetes&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Celery-0F172A?style=flat-square&logo=celery&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=06B6D4"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:06B6D4&height=3&section=header" width="100%"/>
+
+**SwarmAI** — Multi-agent personal assistant
+
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/OpenAI%20GPT--4o%20API-0F172A?style=flat-square"/> <img src="https://img.shields.io/badge/Telegram%20Bot%20API-0F172A?style=flat-square&logo=telegram&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Google%20Calendar-0F172A?style=flat-square&logo=googlecalendar&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Gmail%20API-0F172A?style=flat-square&logo=gmail&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/pytest-0F172A?style=flat-square&logo=pytest&logoColor=06B6D4"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:06B6D4&height=3&section=header" width="100%"/>
+
+**AI Media Intelligence Agent** — Conversational analytics, sentiment analysis, predictive forecasting, live social media monitoring, RAG, and interactive dashboards
+
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Streamlit-0F172A?style=flat-square&logo=streamlit&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=langchain&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/OpenAI-0F172A?style=flat-square"/> <img src="https://img.shields.io/badge/ChromaDB-0F172A?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Plotly-0F172A?style=flat-square&logo=plotly&logoColor=06B6D4"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:06B6D4&height=3&section=header" width="100%"/>
+
+**Document-Aware RAG Chatbot** — Dockerized RAG chatbot that answers strictly from provided documents
+
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=langchain&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/FAISS-0F172A?style=flat-square"/> <img src="https://img.shields.io/badge/Ollama-0F172A?style=flat-square&logo=ollama&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Streamlit-0F172A?style=flat-square&logo=streamlit&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=06B6D4"/>
+
+<h2 align="center">Trophies</h2>
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=ChinmayRout9040895625&theme=onedark&no-frame=true&row=1&column=7" />
+</div>
+
+<p align="center"><i>Thanks for visiting — let's build something intelligent together.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=120&section=footer" width="100%"/>
