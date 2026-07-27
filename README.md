@@ -31,3 +31,22 @@ I care about turning research-grade AI ideas into systems that run in production
 - Open Source
 
 </p>
+
+<h2 align="center">Skills & Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,pandas,opencv,fastapi,flask,docker,git,linux,postgres,react,ts,js&theme=dark&perline=8" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=06B6D4" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-0F172A?style=for-the-badge&logo=huggingface&logoColor=06B6D4" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=06B6D4" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=langgraph&logoColor=06B6D4" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-0F172A?style=for-the-badge" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/Anthropic%20API-0F172A?style=for-the-badge&logo=anthropic&logoColor=06B6D4" alt="Anthropic API"/>
+  <img src="https://img.shields.io/badge/FAISS-0F172A?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/ChromaDB-0F172A?style=for-the-badge" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=06B6D4" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge" alt="SQL"/>
+</p>
