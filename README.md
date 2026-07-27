@@ -50,3 +50,29 @@ I care about turning research-grade AI ideas into systems that run in production
   <img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=06B6D4" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge" alt="SQL"/>
 </p>
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChinmayRout9040895625&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayRout9040895625&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayRout9040895625&theme=tokyonight" width="32%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ChinmayRout9040895625&background=0F172A&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B96A5&border=1E3A8A&border_radius=8" width="100%" />
+</div>
+
+<h2 align="center">Contribution Activity</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChinmayRout9040895625/ChinmayRout9040895625/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChinmayRout9040895625/ChinmayRout9040895625/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChinmayRout9040895625/ChinmayRout9040895625/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+<img src="https://raw.githubusercontent.com/ChinmayRout9040895625/ChinmayRout9040895625/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+
+</div>
