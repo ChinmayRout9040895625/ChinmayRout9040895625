@@ -1,0 +1,16 @@
+{
+  "type": "rainbow",
+  "backgroundColor": "#0F172A",
+  "foregroundColor": "#C9D1D9",
+  "strongColor": "#ffffff",
+  "weakColor": "#334155",
+  "radarColor": "#06B6D4",
+  "growingAnimation": true,
+  "contribColors": [
+    "#0F172A",
+    "#1E3A8A",
+    "#2563EB",
+    "#0891B2",
+    "#06B6D4"
+  ]
+}
