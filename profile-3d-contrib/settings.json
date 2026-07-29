@@ -1,16 +1,19 @@
 {
-  "type": "normal",
+  "type": "rainbow",
   "backgroundColor": "#0F172A",
   "foregroundColor": "#C9D1D9",
   "strongColor": "#ffffff",
   "weakColor": "#334155",
   "radarColor": "#06B6D4",
   "growingAnimation": true,
-  "contribColors": [
-    "#0F172A",
-    "#059669",
-    "#CA8A04",
-    "#DC2626",
-    "#A21CAF"
-  ]
+  "saturation": "60%",
+  "contribLightness": [
+    "20%",
+    "30%",
+    "40%",
+    "50%",
+    "60%"
+  ],
+  "duration": "10s",
+  "hueRatio": -7
 }
