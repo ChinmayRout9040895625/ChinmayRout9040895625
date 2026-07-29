@@ -57,10 +57,6 @@ Open Source
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayRout9040895625&theme=tokyonight" width="32%" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ChinmayRout9040895625&background=0F172A&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B96A5&border=1E3A8A&border_radius=8" width="60%" />
-</div>
-
 <h2 align="center">Contribution Activity</h2>
 
 <div align="center">
