@@ -33,7 +33,7 @@ Open Source
 <h2 align="center">Skills & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,git,linux,postgres,react,ts,js&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,opencv,fastapi,docker,git,linux,postgres,react,ts,js&theme=dark&perline=7" />
 </div>
 
 <p align="center">
