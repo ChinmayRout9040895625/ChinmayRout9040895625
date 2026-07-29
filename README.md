@@ -33,11 +33,12 @@ Open Source
 <h2 align="center">Skills & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,pandas,opencv,fastapi,flask,docker,git,linux,postgres,react,ts,js&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,git,linux,postgres,react,ts,js&theme=dark&perline=8" />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=06B6D4" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=06B6D4" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-0F172A?style=for-the-badge&logo=huggingface&logoColor=06B6D4" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=06B6D4" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=langgraph&logoColor=06B6D4" alt="LangGraph"/>
