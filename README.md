@@ -71,7 +71,7 @@ Open Source
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChinmayRout9040895625/ChinmayRout9040895625/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
-<img src="https://raw.githubusercontent.com/ChinmayRout9040895625/ChinmayRout9040895625/main/profile-3d-contrib/profile-customize.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/ChinmayRout9040895625/ChinmayRout9040895625/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 </div>
 
